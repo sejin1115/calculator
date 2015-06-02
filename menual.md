@@ -12,3 +12,6 @@
 
 
 ###[HOME](https://github.com/sejin1115/calculator/blob/develop/menual.md)
+
+### 조원이
+ - 조장! 밥사!
